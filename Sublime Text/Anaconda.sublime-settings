@@ -1,1 +1,6 @@
-
+{
+    //"cmd": ["/usr/local/bin/python3", "-u", "$file"],
+    "cmd": ["C:\\Users\\<USERNAME>\\....\\python.exe", "-u", "$file"], // Path of your python interpreter. add the double slash when using for windows
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "quiet": false  // for beginner's it's very necessary that you should read what is coming in the info
+}
