@@ -84,7 +84,7 @@
     "scroll_speed": 5.0,
     "show_definitions": false,
     "show_encoding": true,
-    "show_errors_inline": true,
+    "show_errors_inline": true, // changed this to true for IDE like feature
     "show_full_path": false,
     "sidebar_default": true,
     "swallow_startup_errors": true,
